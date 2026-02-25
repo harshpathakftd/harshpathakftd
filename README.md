@@ -1,38 +1,42 @@
 <h1 align="center">👨‍💻 Harsh Pathak</h1>
 
-<h3 align="center">🚀 DevOps Engineer | Full Stack Java Developer</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Full+Stack+Java+Developer;Kubernetes+%7C+Docker+%7C+CI%2FCD;Building+Scalable+Systems" />
+</h3>
 
 <p align="center">
-  Designing Scalable Systems • Automating Deployments • Building Production-Ready Applications
+  🚀 Automating Deployments • Scaling Applications • Engineering Production Systems
 </p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
 
 ---
 
 ## 🚀 About Me
 
-I am a **DevOps-focused Full Stack Developer** specializing in building scalable backend systems and deploying production-grade cloud-native applications.
+I am a <b>DevOps-focused Full Stack Developer</b> specializing in scalable backend systems and cloud-native deployments.
 
-I focus on:
-
-- ⚙️ Kubernetes Architecture & Scaling  
-- 🔁 CI/CD Pipeline Automation  
-- ☕ Spring Boot Microservices  
-- ⚛️ React Frontend Systems  
-- 🐳 Docker & Containerization  
-- 📊 Monitoring & Production Debugging  
+🔹 Kubernetes Architecture & Scaling  
+🔹 CI/CD Pipeline Automation  
+🔹 Spring Boot Microservices  
+🔹 React Frontend Development  
+🔹 Docker & Containerization  
+🔹 Monitoring & Production Debugging  
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshpathakftd&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshpathakftd&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshpathakftd&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshpathakftd&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-# 🔥 Contribution Graph
+# 🔥 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshpathakftd&theme=tokyo-night" />
@@ -42,7 +46,7 @@ I focus on:
 
 # 🛠️ Tech Stack
 
-## 🚀 Backend & API
+## 🚀 Backend
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
 </p>
@@ -64,53 +68,41 @@ I focus on:
 
 ---
 
-# 🏗️ DevOps Architecture Mindset
+# 🏗️ DevOps Architecture Flow
 
-### 🔄 CI/CD Flow I Work With:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284085-20c9b9fa-1c09-4e2e-8d3f-3f6dba8b5f74.gif" width="500"/>
+</p>
 
-Developer → Git Push → GitHub Actions → Docker Build → Container Registry → Kubernetes Deployment → Rolling Update → Monitoring
+### CI/CD Flow:
+Developer → Git Push → GitHub Actions → Docker Build → Container Registry → Kubernetes → Rolling Update → Monitoring
 
 ---
 
 # 📦 Featured Projects
 
-## 🚛 VPL Live Project – Logistics Management System
-
-- Real-time vehicle tracking  
-- Microservices-based backend  
-- Production-ready REST APIs  
-- Dashboard & reporting system  
-- Secure driver & guarantor management  
+### 🚛 VPL Live Project – Logistics Management
+✔ Real-time vehicle tracking  
+✔ Microservices architecture  
+✔ Production-ready REST APIs  
+✔ Dashboard & reporting  
 
 ---
 
-## 👥 User Management System
-
-- Role-based authentication  
-- Secure JWT login  
-- REST API architecture  
-- Scalable Spring Boot backend  
+### 👥 User Management System
+✔ JWT Authentication  
+✔ Role-based access  
+✔ Scalable Spring Boot design  
 
 ---
 
 # 🎯 Engineering Focus
 
-- Writing clean & maintainable backend code  
-- Designing scalable Kubernetes deployments  
-- Zero-downtime rolling updates  
-- Production troubleshooting  
-- Monitoring & Observability  
-
----
-
-# 📈 Current Mission
-
-Becoming a **Production-Ready DevOps Engineer** capable of handling:
-
-- High-traffic distributed systems  
-- Multi-service Kubernetes architecture  
-- Enterprise CI/CD pipelines  
-- Real-world infrastructure failures  
+✨ Clean & Maintainable Backend Code  
+🚀 Scalable Kubernetes Deployments  
+🔄 Zero Downtime Rolling Updates  
+🛠️ Production Troubleshooting  
+📊 Monitoring & Observability  
 
 ---
 
@@ -125,6 +117,8 @@ Becoming a **Production-Ready DevOps Engineer** capable of handling:
 </p>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 
 <p align="center">
   ⭐ Always Learning • Always Building • Always Scaling
