@@ -1,108 +1,125 @@
 <h1 align="center">👨‍💻 Harsh Pathak</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Full+Stack+Java+Developer;Kubernetes+%7C+Docker+%7C+CI%2FCD;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=DevOps+Engineer;Kubernetes+%7C+Docker+%7C+CI%2FCD+Specialist;Cloud-Native+Application+Builder;Full+Stack+Java+Developer" />
 </h3>
 
 <p align="center">
-  🚀 Automating Deployments • Scaling Applications • Engineering Production Systems
+  🚀 Designing Scalable Infrastructure • Automating Deployments • Engineering Production-Ready Systems
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
+## 🚀 DevOps-Focused Engineer
+
+I am a **DevOps Engineer & Full Stack Java Developer** with hands-on experience in designing, deploying, and scaling microservices-based applications using containerized and cloud-native technologies.
+
+My primary focus is on:
+
+- ⚙️ Kubernetes Architecture & Workload Management  
+- 🐳 Docker Image Optimization & Container Strategy  
+- 🔁 CI/CD Automation using GitHub Actions  
+- 📦 Rolling Updates & Zero Downtime Deployments  
+- 📊 Monitoring & Observability Concepts  
+- 🛠️ Production Debugging & Failure Handling  
 
 ---
 
-## 🚀 About Me
+# 🏗️ Infrastructure & Deployment Expertise
 
-I am a <b>DevOps-focused Full Stack Developer</b> specializing in scalable backend systems and cloud-native deployments.
+### 🔹 Kubernetes
 
-🔹 Kubernetes Architecture & Scaling  
-🔹 CI/CD Pipeline Automation  
-🔹 Spring Boot Microservices  
-🔹 React Frontend Development  
-🔹 Docker & Containerization  
-🔹 Monitoring & Production Debugging  
+- Deployments, ReplicaSets, Services
+- Ingress configuration
+- Liveness & Readiness Probes
+- Resource Requests & Limits
+- Horizontal Pod Autoscaling (HPA)
+- Persistent Volumes (PV/PVC)
+- Rolling Updates & Rollbacks
+- Troubleshooting CrashLoopBackOff / ImagePullBackOff
+
+### 🔹 CI/CD Pipeline Flow
+
+I design pipelines that follow:
+
+Developer → Git Push → GitHub Actions → Docker Build → Container Registry → Kubernetes Deployment → Rolling Update → Monitoring
+
+- Automated build & test
+- Docker image versioning
+- Continuous deployment strategy
+- Zero-downtime releases
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshpathakftd&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshpathakftd&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshpathakftd&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshpathakftd&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-# 🔥 Contribution Activity
+# 🛠️ Technical Stack
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshpathakftd&theme=tokyo-night" />
-</p>
+### 🚀 Backend & APIs
+- Java
+- Spring Boot
+- Hibernate / JPA
+- RESTful Microservices
+- JWT Authentication
+- Secure API Design
 
----
+### ⚛️ Frontend
+- ReactJS
+- JavaScript
+- HTML5 / CSS3
+- Bootstrap
 
-# 🛠️ Tech Stack
+### 🐳 DevOps & Cloud
+- Docker
+- Kubernetes
+- GitHub Actions
+- Linux
+- Nginx
+- Basic AWS Deployment
+- Container Networking
+- Resource Optimization
 
-## 🚀 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
-</p>
-
-## ⚛️ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
-</p>
-
-## 🐳 DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,githubactions" />
-</p>
-
-## 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
----
-
-# 🏗️ DevOps Architecture Flow
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284085-20c9b9fa-1c09-4e2e-8d3f-3f6dba8b5f74.gif" width="500"/>
-</p>
-
-### CI/CD Flow:
-Developer → Git Push → GitHub Actions → Docker Build → Container Registry → Kubernetes → Rolling Update → Monitoring
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
+- Oracle
 
 ---
 
-# 📦 Featured Projects
+# 📦 Production-Oriented Projects
 
-### 🚛 VPL Live Project – Logistics Management
-✔ Real-time vehicle tracking  
-✔ Microservices architecture  
-✔ Production-ready REST APIs  
-✔ Dashboard & reporting  
+## 🚛 VPL Live Project – Logistics Management System
+
+- Microservices-based backend architecture
+- Real-time vehicle tracking system
+- Secure REST APIs
+- Scalable deployment-ready structure
+- Designed for production environment
+
+## 👥 User Management System
+
+- JWT-based authentication
+- Role-based authorization
+- Modular backend design
+- CI/CD ready structure
+- Containerized deployment support
 
 ---
 
-### 👥 User Management System
-✔ JWT Authentication  
-✔ Role-based access  
-✔ Scalable Spring Boot design  
+# 🎯 Engineering Philosophy
 
----
-
-# 🎯 Engineering Focus
-
-✨ Clean & Maintainable Backend Code  
-🚀 Scalable Kubernetes Deployments  
-🔄 Zero Downtime Rolling Updates  
-🛠️ Production Troubleshooting  
-📊 Monitoring & Observability  
+- Infrastructure as Code mindset  
+- Scalable and fault-tolerant system design  
+- Clean and maintainable backend architecture  
+- Performance-aware deployments  
+- Debugging issues at container and cluster level  
 
 ---
 
@@ -110,16 +127,20 @@ Developer → Git Push → GitHub Actions → Docker Build → Container Registr
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshpathakftp">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30"/>
   </a>
   &nbsp;&nbsp;
+  <a href="mailto:harshpathakftd@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30"/>
+  </a>
+</p>
+
+<p align="center">
   📧 harshpathakftd@gmail.com
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-
 <p align="center">
-  ⭐ Always Learning • Always Building • Always Scaling
+  ⭐ Building Systems That Scale • Engineering Reliable Infrastructure
 </p>
